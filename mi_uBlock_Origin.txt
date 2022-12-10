@@ -12,3 +12,8 @@ www.natfrp.com##.n-alert__icon
 
 ! 2022-03-18 http://m.gllmh8.com
 gllmh8.com##.ad_wap
+
+!2022-12-10 http://wap.gllmh.com
+gllmh.com/style/js/gllgd2.js
+api.074adzx.com/sh/753.js
+gllgs.com/style/js/gllgd.js
